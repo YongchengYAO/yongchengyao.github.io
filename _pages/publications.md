@@ -18,7 +18,7 @@ Selected Publications
 <img align="left" width="300" src="/_pages/publications.assets/paper-CMT.png" style="margin-right: 15px" /> \
 **Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**\
 **Yongcheng Yao**, Weitian Chen\
-Applications of Medical Artificial Intelligence (MICCAI workshop), 2024 (in press) <br />
+Applications of Medical Artificial Intelligence (MICCAI workshop), 2025 <br />
 [[code](https://github.com/YongchengYAO/CMT-AMAI24paper)] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_16)] [[software](https://github.com/YongchengYAO/CartiMorph-Toolbox)] [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-AMAI24.png)] 
 <br /><br /><br /><br />
 
