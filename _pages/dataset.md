@@ -11,8 +11,7 @@ author_profile: true
 
 Dataset Release
 ------
-- **OAIZIB-CM**:  507 Knee MR images and segmentation masks, derived from the OAIZIB dataset  
-  - [Hugging Face (recommended)](https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM) |  [Google Drive](https://drive.google.com/drive/folders/13_afAKSH7ZMOI_Nk2gfoihbJKwafw1l9) | [Zenodo](https://zenodo.org/records/14934086)
+- **OAIZIB-CM**:  507 Knee MR images and segmentation masks, derived from the OAIZIB dataset [[Hugging Face (recommended)](https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM) |  [Google Drive](https://drive.google.com/drive/folders/13_afAKSH7ZMOI_Nk2gfoihbJKwafw1l9) | [Zenodo](https://zenodo.org/records/14934086)]
 
 
 
