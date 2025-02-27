@@ -12,6 +12,9 @@ main:
   - title: "Code & Software"
     url: /code-software/
    
+  - title: "Dataset"
+    url: /dataset/
+
   - title: "CV"
     url: /cv/
     
