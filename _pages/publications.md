@@ -25,7 +25,7 @@ Applications of Medical Artificial Intelligence (MICCAI workshop), 2025 <br />
 <img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph.png" style="margin-right: 15px" /> \
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 **Yongcheng Yao**, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
-Medical Image Analysis, 2024 [[code](https://github.com/YongchengYAO/CartiMorph)] [[paper](https://doi.org/10.1016/j.media.2023.103035)] [[arxiv](https://arxiv.org/abs/2308.01981)] [[video 1](https://www.youtube.com/watch?v=8DbyavsZhF4), [video 2](https://www.youtube.com/watch?v=p3b_UWN63bo)] [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-Inf-ResearchDay2024-v2.png)] <br />
+Medical Image Analysis, 2024 [[code](https://github.com/YongchengYAO/CartiMorph)] [[dataset](https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM)] [[paper](https://doi.org/10.1016/j.media.2023.103035)] [[arxiv](https://arxiv.org/abs/2308.01981)] [[video 1](https://www.youtube.com/watch?v=8DbyavsZhF4), [video 2](https://www.youtube.com/watch?v=p3b_UWN63bo)] [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-Inf-ResearchDay2024-v2.png)] <br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-UDA-OA-Phenotype.png" style="margin-right: 15px" /> \
