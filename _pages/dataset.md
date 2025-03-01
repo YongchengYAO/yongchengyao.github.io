@@ -36,3 +36,8 @@ from huggingface_hub import snapshot_download
 snapshot_download(repo_id="YongchengYAO/OAIZIB-CM", repo_type='dataset', local_dir="/your/local/folder")
 ```
 
+### Highlight 
+
+- [**Cephalogram400**](https://huggingface.co/datasets/YongchengYAO/Cephalogram400): 400 head and neck X-ray scans and 19 landmarks for each image, derived from [this data](https://figshare.com/s/37ec464af8e81ae6ebbf)
+
+  
