@@ -11,7 +11,9 @@ author_profile: true
 
 Dataset Release
 ------
-- **OAIZIB-CM**:  507 Knee MR images and segmentation masks, derived from the OAIZIB dataset [[Hugging Face (recommended)](https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM), [Google Drive](https://drive.google.com/drive/folders/13_afAKSH7ZMOI_Nk2gfoihbJKwafw1l9), [Zenodo](https://zenodo.org/records/14934086)]
+
+
+**OAIZIB-CM**:  507 Knee MR images and segmentation masks, derived from the OAIZIB dataset [[Hugging Face (recommended)](https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM), [Google Drive](https://drive.google.com/drive/folders/13_afAKSH7ZMOI_Nk2gfoihbJKwafw1l9), [Zenodo](https://zenodo.org/records/14934086)]
 
 
 
@@ -38,6 +40,6 @@ snapshot_download(repo_id="YongchengYAO/OAIZIB-CM", repo_type='dataset', local_d
 
 ### Highlight 
 
-- [**Cephalogram400**](https://huggingface.co/datasets/YongchengYAO/Cephalogram400): 400 head and neck X-ray scans and 19 landmarks for each image, derived from [this data](https://figshare.com/s/37ec464af8e81ae6ebbf)
+<img align="left" width="300" src="/_pages/dataset.assets/HF-FeTA24-Biometrics.png" style="margin-right: 15px" /> \
 
-  
+[**Ceph-Biometrics-400**](https://huggingface.co/datasets/YongchengYAO/Ceph-Biometrics-400): 400 head and neck X-ray scans and 19 landmarks for each image, derived from [this data](https://figshare.com/s/37ec464af8e81ae6ebbf)
