@@ -12,7 +12,7 @@ Dataset Release
 
 - **OAIZIB-CM**:  507 knee MRIs and segmentation masks [[Hugging Face (recommended)](https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM), [Google Drive](https://drive.google.com/drive/folders/13_afAKSH7ZMOI_Nk2gfoihbJKwafw1l9), [Zenodo](https://zenodo.org/records/14934086)]
 
-  <img align="centre" width="600" src="/_pages/dataset.assets/HF-OAIZIB-CM.png" style="margin-right: 15px" /> 
+  <img align="centre" width="800" src="/_pages/dataset.assets/HF-OAIZIB-CM.png" style="margin-right: 15px" /> 
 
 
 
@@ -41,9 +41,9 @@ snapshot_download(repo_id="YongchengYAO/OAIZIB-CM", repo_type='dataset', local_d
 
 - [**Ceph-Biometrics-400**](https://huggingface.co/datasets/YongchengYAO/Ceph-Biometrics-400): 400 head and neck X-ray scans and 19 landmarks
 
-  <img align="centre" width="600" src="/_pages/dataset.assets/HF-Ceph-Biometrics-400.png" style="margin-right: 15px" /> 
+  <img align="centre" width="800" src="/_pages/dataset.assets/HF-Ceph-Biometrics-400.png" style="margin-right: 15px" /> 
   
 - [**FeTA24-Biometrics**](https://huggingface.co/datasets/YongchengYAO/FeTA24-Biometrics): 65 T2w brain MRIs, 7-class segmentation masks, and 5 biometric measurements
 
-  <img align="centre" width="600" src="/_pages/dataset.assets/HF-FeTA24-Biometrics.png" style="margin-right: 15px" /> 
+  <img align="centre" width="800" src="/_pages/dataset.assets/HF-FeTA24-Biometrics.png" style="margin-right: 15px" /> 
 
