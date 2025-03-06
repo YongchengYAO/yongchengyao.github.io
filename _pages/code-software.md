@@ -24,7 +24,7 @@ Software
 
   <img align="centre" width="600" src="/_pages/code-software.assets/aboutCMT.png" style="margin-right: 15px" /> 
 
-- [**CartiMorph Viewer**](https://github.com/YongchengYAO/CartiMorph-Viewer): a data visualisation platform that works with CartiMorph-Toolbox
+- [**CartiMorph Viewer**](https://github.com/YongchengYAO/CartiMorph-Viewer): a data visualization platform that works with CartiMorph-Toolbox
 
   <img align="centre" width="600" src="/_pages/code-software.assets/aboutCMV.png" style="margin-right: 15px" /> 
 
