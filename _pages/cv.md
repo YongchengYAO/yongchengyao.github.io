@@ -41,3 +41,8 @@ Scholarship
 * The Keyuan Scholarship, South China University of Technology (2016).
 * The Longsun Scholarship, South China University of Technology (2015).
 * The Dow Scholarship, South China University of Technology (2014).
+
+Academic Service
+------
+
+- Reviewer: MICCAI, Artificial Intelligence in Medicine
