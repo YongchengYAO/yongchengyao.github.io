@@ -9,6 +9,7 @@ author_profile: true
 
 
 
+* [10/2024] [CartiMorph Toolbox](https://github.com/YongchengYAO/CartiMorph-Toolbox) is open-source.
 * [07/2024] A paper “Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics” was accepted @ AMAI’24
 * [06/2024] A [video](https://www.youtube.com/watch?v=8DbyavsZhF4) on soft tissue morphometrics in human knee is online.
 * [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM’24.
